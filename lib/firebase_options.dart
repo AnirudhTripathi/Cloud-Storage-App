@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAKR7Z03Hjm-yLArsNN1pxy5DXDRq1TS68',
+    apiKey: '',
     appId: '1:594252193689:web:a455cd8ae00b01c6a3bd08',
     messagingSenderId: '594252193689',
     projectId: 'drive-clone-60440',
