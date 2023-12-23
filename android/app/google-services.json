@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594252193689",
+    "project_id": "drive-clone-60440",
+    "storage_bucket": "drive-clone-60440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594252193689:android:883f8449a68ec6efa3bd08",
+        "android_client_info": {
+          "package_name": "com.example.drive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa7YSxh_Q87k_DWoW1xNN0HLlMfK9VO7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
