@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAvw8tcWpbtJdD_WQHJZcbWaYCUM2gPrYM',
+    apiKey: '',
     appId: '1:594252193689:ios:a5b2b409769438aaa3bd08',
     messagingSenderId: '594252193689',
     projectId: 'drive-clone-60440',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAvw8tcWpbtJdD_WQHJZcbWaYCUM2gPrYM',
+    apiKey: '',
     appId: '1:594252193689:ios:2130b0d3417394a1a3bd08',
     messagingSenderId: '594252193689',
     projectId: 'drive-clone-60440',
